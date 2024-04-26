@@ -1,0 +1,27 @@
+.parent{
+    background-color: blueviolet;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly
+
+}
+.parent div{
+    margin: 10px;
+    margin: 10px;
+
+}
+.omda1{
+    background-color: aquamarine;
+}
+.omda2{
+    background-color: brown;
+
+}
+.omda3{
+    background-color: red;
+}
+.omda4{
+    background-color: chartreuse;
+}
